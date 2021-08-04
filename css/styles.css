@@ -1,5 +1,5 @@
 #title {
-  background-color: #ff4c68;
+  background: linear-gradient(#f48b29, #f0c929);
   color: white;
 }
 
@@ -51,4 +51,10 @@ h1 {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+}
+
+/*Features Section */
+
+#features {
+  padding: 7% 15%;
 }
