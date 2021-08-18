@@ -14,7 +14,7 @@ body {
 h1 {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
-  font-size: 3.5rem;
+  font-size: 4rem;
   line-height: 1.5;
 }
 
@@ -73,6 +73,7 @@ p {
 
 #features {
   padding: 7% 15%;
+  background-color: white;
 }
 
 .feature-box {
