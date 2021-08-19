@@ -132,3 +132,11 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Media Query */
+
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+  }
+}
