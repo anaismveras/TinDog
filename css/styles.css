@@ -138,11 +138,11 @@ p {
   background: linear-gradient(#f48b29, #f0c929);
   color: white;
   text-align: center;
-  padding: 7% 15%;
+  margin: 10% 7%;
 }
 
 .cta-download-button {
-  margin: 0 auto;
+  margin: 5% auto 5%;
 }
 
 /* Media Query */
