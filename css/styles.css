@@ -145,6 +145,11 @@ p {
   margin: 5% 5% 5% 0%;
 }
 
+.cta-title {
+  font-size: 2.75rem;
+  padding: 50px 120px;
+}
+
 /* Media Query */
 
 @media (max-width: 1028px) {
