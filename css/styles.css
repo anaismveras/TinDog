@@ -138,6 +138,7 @@ p {
   background: linear-gradient(#f48b29, #f0c929);
   color: white;
   text-align: center;
+  padding: 7% 15%;
 }
 
 .cta-download-button {
