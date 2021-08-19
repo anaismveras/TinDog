@@ -150,6 +150,11 @@ p {
   padding: 50px 120px 25px;
 }
 
+/* Footer Section*/
+#footer {
+  text-align: center;
+}
+
 /* Media Query */
 
 @media (max-width: 1028px) {
