@@ -146,13 +146,18 @@ p {
 }
 
 .cta-title {
-  font-size: 2.75rem;
+  font-size: 3rem;
   padding: 50px 120px 25px;
 }
 
 /* Footer Section*/
 #footer {
   text-align: center;
+  color: grey;
+}
+
+.footer-icon {
+  font-size: 10px;
 }
 
 /* Media Query */
