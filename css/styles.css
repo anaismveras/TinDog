@@ -159,6 +159,7 @@ p {
 .footer-icon {
   font-size: 40px;
   color: lightgray;
+  margin: 5%;
 }
 
 /* Media Query */
