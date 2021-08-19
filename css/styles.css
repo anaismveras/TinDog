@@ -137,6 +137,11 @@ p {
 #cta {
   background: linear-gradient(#f48b29, #f0c929);
   color: white;
+  text-align: center;
+}
+
+.cta-download-button {
+  margin: 0 auto;
 }
 
 /* Media Query */
