@@ -133,6 +133,12 @@ p {
   padding: 3% 2%;
 }
 
+/* Call to Action Section*/
+#cta {
+  background: linear-gradient(#f48b29, #f0c929);
+  color: white;
+}
+
 /* Media Query */
 
 @media (max-width: 1028px) {
